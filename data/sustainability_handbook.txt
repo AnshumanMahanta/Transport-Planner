@@ -1,0 +1,13 @@
+EcoRoute Knowledge Base - Indian Transport Emissions (2024–2025):
+
+Private SUV (Petrol): 0.213 kg CO2 per km
+Small Hatchback (Petrol): 0.111 kg CO2 per km
+Motorcycle (<125cc): 0.032 kg CO2 per km
+Electric Bus (Indian Grid): 0.012 kg CO2 per passenger-km
+CNG Public Bus: 0.053 kg CO2 per passenger-km
+Metro Rail: 0.011 kg CO2 per passenger-km
+Walking/Cycling: 0 kg CO2
+
+Example:
+10 km by SUV → 2.13 kg CO2
+10 km by Metro → 0.11 kg CO2
