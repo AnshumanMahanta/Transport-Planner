@@ -83,6 +83,16 @@ streamlit run eco_planner.py
 
 ---
 
+## Output/Project Screenshots
+
+**Output #1 : **
+![Picture-1](Images/Long Distance.png)
+
+**Output #2 : **
+![Picture-2](Images/Short Distance.png)
+
+---
+
 ## Notes
 
 * The RAG engine uses **simple in-memory embeddings** for demonstration. You can replace it with **sentence-transformers embeddings** for better accuracy.
