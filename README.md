@@ -85,11 +85,12 @@ streamlit run eco_planner.py
 
 ## Output/Project Screenshots
 
-**Output #1 : **
-![Picture-1](Images/Long Distance.png)
+**Output #1:**
+![Picture-1](images/long_distance.png)
 
-**Output #2 : **
-![Picture-2](Images/Short Distance.png)
+**Output #2:**
+![Picture-2](images/short_distance.png)
+
 
 ---
 
