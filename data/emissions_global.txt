@@ -1,0 +1,72 @@
+EcoRoute Knowledge Base – Global Transport Emissions (2024–2025)
+
+This document contains approximate global average CO₂ emission factors
+used for comparing transport modes. Values are indicative ranges based
+on international transport and energy studies. Actual emissions vary
+by vehicle efficiency, occupancy, and electricity mix.
+
+--------------------------------------------------
+PRIVATE ROAD TRANSPORT
+(kg CO₂ per vehicle-kilometre)
+
+• Large SUV (Petrol/Diesel): 0.20 – 0.27
+• Mid-size Car (Petrol): 0.12 – 0.18
+• Small Car / Hatchback: 0.09 – 0.12
+• Hybrid Car: 0.07 – 0.10
+• Electric Car (global average grid): 0.04 – 0.08
+• Motorcycle (<125cc): 0.025 – 0.04
+
+Note:
+Electric vehicle emissions depend on electricity generation mix.
+Renewable-heavy grids result in significantly lower emissions.
+
+--------------------------------------------------
+PUBLIC TRANSPORT
+(kg CO₂ per passenger-kilometre)
+
+• Diesel Urban Bus: 0.08 – 0.10
+• CNG Bus: 0.05 – 0.07
+• Electric Bus: 0.01 – 0.03
+• Metro / Subway: 0.009 – 0.015
+• Tram / Light Rail: 0.01 – 0.02
+
+Note:
+Passenger-kilometre values assume average occupancy levels.
+
+--------------------------------------------------
+RAIL TRANSPORT (INTERCITY)
+(kg CO₂ per passenger-kilometre)
+
+• Electric High-Speed Rail: 0.006 – 0.02
+• Diesel Train: 0.03 – 0.06
+
+--------------------------------------------------
+AIR TRANSPORT
+(kg CO₂ per passenger-kilometre)
+
+• Domestic / Short-Haul Flight: 0.15 – 0.20
+• Economy Class (Short-Haul): 0.12 – 0.15
+• Business Class: 0.20 – 0.30
+
+Note:
+Aviation emissions are highly sensitive to aircraft type and load factor.
+
+--------------------------------------------------
+ACTIVE & LOW-EMISSION TRANSPORT
+(kg CO₂ per kilometre)
+
+• Walking: 0.0
+• Cycling: 0.0
+• E-bike: 0.003 – 0.008
+
+--------------------------------------------------
+INTERPRETATION GUIDELINES
+
+• Public transport generally emits significantly less CO₂ per passenger
+  than private vehicles.
+• Carpooling reduces per-person emissions for private cars.
+• Electric transport benefits increase with cleaner electricity grids.
+• Walking and cycling are zero-emission at point of use.
+
+This knowledge base is intended for educational and comparative
+decision-making purposes in sustainable transport planning.
